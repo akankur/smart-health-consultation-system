@@ -1,0 +1,11 @@
+id,user_name,symptoms,predicted_disease,severity,doctor
+1,ankur kaushik,"cough, runny nose, sneezing",Common Cold,Low,General Physician
+2,ankur kaushik,coughing,Common Cold,Low,General Physician
+3,ankur kaushk,"coughing, sneezing, running nose",Common Cold,Low,General Physician
+4,ankur,"frequent urination, excessive thirst",Diabetes,High,Endocrinologist
+5,ankur,"frequent urination, excessive thirst",Diabetes,High,Endocrinologist
+6,ankur,coughing,Common Cold,Low,General Physician
+7,ankur,"cough, sneezing",Common Cold,Low,General Physician
+8,ankur,"fever, body pain, fatigue",Flu,Medium,General Physician
+9,ankur,cough,Common Cold,Low,General Physician
+10,ankur kaushik,"cough, sneezing",Common Cold,Low,General Physician
